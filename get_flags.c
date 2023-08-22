@@ -2,12 +2,20 @@
 
 /**
 
+<<<<<<< HEAD
  * get_flags - Calculates active flags
 
  * @format: Formatted string in which to print the arguments
 
  * @i: take a parameter.
 
+=======
+ * get_flags - Calculates active flags 
+ * @format: Formatted string in which to print the arguments
+ 
+ * @i: take a parameter
+ 
+>>>>>>> dbacb4430b74bc12d0de72b3646520c4dad55c1e
  * Return: Flags:
 
  */
